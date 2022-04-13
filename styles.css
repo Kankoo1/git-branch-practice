@@ -1,0 +1,12 @@
+h1 {
+    text-transform: uppercase;
+    font-size: medium;
+    background-color: black;
+    color: white;
+}
+p {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    font-weight: bold;
+}
